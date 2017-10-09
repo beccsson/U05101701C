@@ -2,3 +2,7 @@ baseURL = "https://rubber-tapper-kathleen-46853.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+SectionPagesMenu = "main" 
+[params]
+twitter = "https://twitter.com/t4ostra"
+featured_images = "/images/nova.jpg"
