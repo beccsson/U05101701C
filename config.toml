@@ -5,4 +5,4 @@ theme = "ananke"
 SectionPagesMenu = "main" 
 [params]
 twitter = "https://twitter.com/t4ostra"
-featured_images = "/images/nova.jpg"
+featured_images = "/images/image.jpg"
