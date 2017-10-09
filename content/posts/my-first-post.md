@@ -4,3 +4,8 @@ date: 2017-10-05T12:00:53+02:00
 draft: true
 ---
 
+Hästens storlek varierar mycket med ras och även mellan olika individer inom varje ras. Hästars storlek mäts i mankhöjd, avståndet från manken ner till marken. Mankhöjden kan variera mycket kraftigt med ca 43 cm hos Falabellan och upp till 219 cm hos Shirehästen. Dagens hästar är mycket högre i mankhöjd än normalhästarna var från domesticeringen och ända fram till 1600- och 1700-talet då de större ridhästarna oftast inte nådde mer än 150 cm i mankhöjd.
+
+Allt eftersom aveln utvecklades och blev mer selektiv kunde större hästar avlas fram. På senare tid har även selektiv avel fått fram mycket små hästar som Falabellan och Miniatyrhästen men även mycket stora hästar som Shirehästen. Idag räknar man även hästarnas höjd enligt ett visst system för att dela in dem i olika klasser. Hästar som är under 148 cm räknas som ponny, medan hästar över 148 cm räknas till stor häst. Inom ponnyn räknar man även in dem i fyra olika kategorier beroende på mankhöjd; A-ponnyer, B-ponnyer, C-ponnyer och D-ponnyer. A är de minsta ponnyerna och D är de högsta. A-ponnyer kallas de hästar som är 107 cm eller mindre i mankhöjd. B-ponnyer har mankhöjden 107,1 cm till 130 cm. C-ponnyer är mellan 130,1 och 140 cm, och d-ponnyer mellan 140,1 och 148 cm. Vissa raser som blir under 148 cm räknas ändå som häst, inte ponny, på grund av en exteriör som mer liknar stora hästars. Några exempel på detta är Islands-, Miniatyr- och Kaspisk häst samt Falabella 64 cm i mankhöjd.
+
+Världens minsta häst är Thumbelina, en dvärg-falabella som är 43 cm i mankhöjd. Världens största häst någonsin var Shirehästen Sampson som var 219 cm i mankhöjd.
